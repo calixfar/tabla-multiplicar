@@ -1,0 +1,5 @@
+ID Cliente: 1
+ Nombre Cliente: Juan
+------------------------
+ID Producto: 2
+ Producto: Frijol
